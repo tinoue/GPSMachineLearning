@@ -3,6 +3,7 @@
 This repository contains code and jupyter notebooks with machine learning algorithms for working with GPS trajectories. It will be used during the Machine Learning hackathon of [IotTechDay2017](http://iottechday.nl/sessions/machine-learning-hackathon-2/).
 
 The dataset used is the popular [GeoLife GPS Trajectories](https://www.microsoft.com/en-us/download/details.aspx?id=52367) 
+Extract the dataset then put 'Data' folder just under this repository. 
 
 We have already processed this dataset, so that each trajectory (which only contains lat, long, timestamp) is enriched with velocity, acceleration and modality information. 
 
